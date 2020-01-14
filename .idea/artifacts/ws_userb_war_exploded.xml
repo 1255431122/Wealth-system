@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ws-userb:war exploded">
+    <output-path>D:/KPhone/Wealthsystem/ws-userb/target/ws-userb</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>ws-userb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ws-userb" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ws-userb/target/ws-userb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ws-userb/web/Web" />
+    </root>
+  </artifact>
+</component>

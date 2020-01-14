@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ws-userb" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="D:/KPhone/Wealthsystem/ws-commons/pom.xml" />
+        <option value="D:/KPhone/Wealthsystem/ws-cart/pom.xml" />
+        <option value="D:/KPhone/Wealthsystem/ws-manager/pom.xml" />
+        <option value="D:/KPhone/Wealthsystem/ws-order/pom.xml" />
+        <option value="D:/KPhone/Wealthsystem/ws-parent/pom.xml" />
+        <option value="D:/KPhone/Wealthsystem/ws-user-service/pom.xml" />
+        <option value="D:/KPhone/Wealthsystem/ws-user-web/pom.xml" />
+        <option value="D:/KPhone/Wealthsystem/ws-userb/pom.xml" />
+        <option value="$PROJECT_DIR$/ws-api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

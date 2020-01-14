@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ws-cart" />
+        <module name="ws-parent" />
+        <module name="ws-commons" />
+        <module name="ws-api" />
+        <module name="ws-order" />
+        <module name="ws-user-service" />
+        <module name="ws-manager" />
+        <module name="ws-userb" />
+        <module name="ws-user-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ws-api" target="1.8" />
+      <module name="ws-cart" target="1.8" />
+      <module name="ws-commons" target="1.8" />
+      <module name="ws-manager" target="1.8" />
+      <module name="ws-order" target="1.8" />
+      <module name="ws-parent" target="1.8" />
+      <module name="ws-user-service" target="1.8" />
+      <module name="ws-user-web" target="1.8" />
+      <module name="ws-userb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ws-api" options="-parameters" />
+      <module name="ws-cart" options="-parameters" />
+      <module name="ws-commons" options="-parameters" />
+      <module name="ws-manager" options="-parameters" />
+      <module name="ws-order" options="-parameters" />
+      <module name="ws-parent" options="-parameters" />
+      <module name="ws-user-service" options="-parameters" />
+      <module name="ws-user-web" options="-parameters" />
+    </option>
+  </component>
+</project>

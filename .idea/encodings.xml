@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ws-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws-user-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws-userb" charset="UTF-8" />
+  </component>
+</project>

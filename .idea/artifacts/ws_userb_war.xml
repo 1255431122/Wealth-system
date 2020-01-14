@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ws-userb:war">
+    <output-path>D:/KPhone/Wealthsystem/ws-userb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ws-userb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ws-userb.war">
+      <element id="artifact" artifact-name="ws-userb:war exploded" />
+    </root>
+  </artifact>
+</component>
