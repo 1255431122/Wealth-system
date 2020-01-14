@@ -1,11 +1,11 @@
 package com.qf.beans;
 
 public class User {
-    private int aid;
-    private String aname;
-    private String apass;
-    private String acount;
-    private int astatus;
+    private int aid;  //id
+    private String aname; // 姓名
+    private String apass; //密码
+    private String acount; //
+    private int astatus; //
 
     public int getAid() {
         return aid;
