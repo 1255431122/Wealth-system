@@ -1,8 +1,7 @@
 package com.qf.mapper;
 
+import com.qf.entity.UserEntity;
+import tk.mybatis.mapper.common.Mapper;
 
-import com.qf.beans.User;
-
-public interface UserMapper {
-    //public User getUserByName(@Param("name") String name);
+public interface UserMapper extends Mapper<UserEntity> {
 }
