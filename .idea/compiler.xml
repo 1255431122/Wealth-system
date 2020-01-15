@@ -6,15 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ws-cart" />
-        <module name="ws-parent" />
-        <module name="ws-commons" />
         <module name="ws-api" />
-        <module name="ws-order" />
-        <module name="ws-user-service" />
+        <module name="ws-cart" />
+        <module name="ws-commons" />
         <module name="ws-manager" />
-        <module name="ws-userb" />
+        <module name="ws-order" />
+        <module name="ws-parent" />
+        <module name="ws-user-service" />
         <module name="ws-user-web" />
+        <module name="ws-userb" />
+        <module name="ws-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,11 +28,12 @@
       <module name="ws-user-service" target="1.8" />
       <module name="ws-user-web" target="1.8" />
       <module name="ws-userb" target="1.8" />
+      <module name="ws-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="ws-api" options="-parameters" />
+      <module name="ws-api" options="" />
       <module name="ws-cart" options="-parameters" />
       <module name="ws-commons" options="-parameters" />
       <module name="ws-manager" options="-parameters" />

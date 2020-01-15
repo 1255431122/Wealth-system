@@ -4,14 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Wealthsystem.iml" filepath="$PROJECT_DIR$/.idea/Wealthsystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/ws-api/ws-api.iml" filepath="$PROJECT_DIR$/ws-api/ws-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ws-cart/ws-cart.iml" filepath="$PROJECT_DIR$/ws-cart/ws-cart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ws-commons/ws-commons.iml" filepath="$PROJECT_DIR$/ws-commons/ws-commons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ws-manager/ws-manager.iml" filepath="$PROJECT_DIR$/ws-manager/ws-manager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ws-order/ws-order.iml" filepath="$PROJECT_DIR$/ws-order/ws-order.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ws-parent/ws-parent.iml" filepath="$PROJECT_DIR$/ws-parent/ws-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ws-user-service/ws-user-service.iml" filepath="$PROJECT_DIR$/ws-user-service/ws-user-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ws-user-web/ws-user-web.iml" filepath="$PROJECT_DIR$/ws-user-web/ws-user-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/ws-userb/ws-userb.iml" filepath="$PROJECT_DIR$/ws-userb/ws-userb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ws-web/ws-web.iml" filepath="$PROJECT_DIR$/ws-web/ws-web.iml" />
     </modules>
   </component>
 </project>
