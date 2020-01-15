@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Expires" content="-1">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <link href="css/css_whir.css" rel="stylesheet">
+    <script type="text/javascript" src="Scripts/jquery-1.11.2.min.js"></script>
+    <!--[if lt IE 9]>
+    <script src="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js"></script>
+    <script src="http://cdn.bootcss.com/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+
+
+<!-- 焦点轮播图-->
+<section class="H_banner">
+    <ul>
+        <li style="background:url(../static/wealthman/uploadfiles/H_ban01.jpg) no-repeat center top;"><a href="#" target="_blank"></a></li>
+        <li style="background:url(uploadfiles/H_ban01.jpg) no-repeat center top;"><a href="#" target="_blank"></a></li>
+        <li style="background:url(uploadfiles/H_ban01.jpg) no-repeat center top;"><a href="#" target="_blank"></a></li>
+    </ul>
+    <div class="hd">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <script type="text/javascript" src="Scripts/index.js"></script>
+    <script type="text/javascript">$(".H_banner").Banner();</script>
+</section>
+<!-- 焦点轮播图 End-->
+
+<!--Top-->
+<header class="Header">
+    <h3 class="logo"><a href="index"></a></h3>
+    <dl class="tell">客服热线：</dl>
+    <dl class="service"><a href="#">在线客服</a></dl>
+    <div class="Mainnav">
+        <ul>
+            <li id="nav1"><a href="index">首页</a></li>
+            <li id="nav2"><a href="关于我们.html">关于我们</a></li>
+            <li id="nav3"><a href="productlist">投资产品</a></li>
+            <li id="nav4"><a href="投资指南.html">投资指南</a></li>
+            <li id="nav5"><a href="传辰研究.html">传辰研究</a></li>
+            <li id="nav6"><a href="传辰学院.html">传辰学院</a></li>
+            <li id="nav7"><a href="招商加盟.html">招商加盟</a></li>
+            <li id="nav8"><a href="软件下载.html">软件下载</a></li>
+            <li id="nav9"><a href="会员中心.html">会员中心</a></li>
+        </ul>
+    </div>
+</header>
+
+
+<!--Top End-->
+
+<!--Star-->
+<section class="Content_home">
+
+
+    <!--第一层-->
+    <div class="H_Layer01">
+        <ul>
+            <li class="M1"><a href="#">开设实盘帐号</a></li>
+            <li class="M2"><a href="#">申请模拟帐号</a></li>
+            <li class="M3"><a href="#">实战分析师</a></li>
+            <li class="M4"><a href="#">在线客服</a></li>
+            <li class="M5"><a href="模拟大奖赛.html">模拟大奖赛</a></li>
+        </ul>
+        <ol>
+            <li>09:59 华泰证券H股发行价定为24.8港元 挂牌</li>
+            <li>09:59 沪指直指5000点 资金充裕 市场亢奋</li>
+        </ol>
+        <dl><a href="/ws-userb/login.jsp">登录</a><a href="会员中心_注册.html">注册</a></dl>
+    </div>
+    <!--第一层 End-->
+    <div class="space10"></div>
+    <!--第二层-->
+    <div class="H_Layer02">
+        <div class="Fl">
+            <h4 class="H_h4Title"><a href="#">更多</a><span><font>视频</font>中心</span></h4>
+            <dl>
+                <dt><a href="#"><img src="../static/wealthman/uploadfiles/H01.jpg"></a></dt>
+                <dt><a href="#"><img src="../static/wealthman/uploadfiles/H02.jpg"></a></dt>
+            </dl>
+        </div>
+        <div class="Fr">
+            <h4 class="H_h4Title"><a href="#">更多</a><span><font>投资</font>指南</span></h4>
+            <dl>
+                <dt><a href="#">新手入门</a></dt>
+                <dt><a href="#">专家指引</a></dt>
+                <dt><a href="#">模拟大赛</a></dt>
+                <dt><a href="#">软件下载</a></dt>
+            </dl>
+        </div>
+        <script type="text/javascript">jQuery(".H_Layer02 .Fl dl dt:last").attr("class","End");</script>
+    </div>
+    <!--第二层 End-->
+    <div class="space10"></div>
+    <!--第三层-->
+    <div class="H_Layer03">
+        <div class="Fl">
+            <h4 class="H_h4Title"><a href="#">更多</a><span><font>每日</font>评论</span></h4>
+            <ul class="H_listUl">
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li><span>09:36</span><a href="#">市场传闻欧洲购金 黄金白银震荡攀升</a></li>
+                <li><span>08:45</span><a href="#">航空公司选座服务被口头叫停 疑为变相涨价</a></li>
+            </ul>
+        </div>
+        <div class="Mib">
+            <h4 class="H_h4Title"><a href="#">更多</a><span><font>市场</font>动态</span></h4>
+            <ul class="H_listUl">
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li><span>09:36</span><a href="#">市场传闻欧洲购金 黄金白银震荡攀升</a></li>
+                <li><span>08:45</span><a href="#">航空公司选座服务被口头叫停 疑为变相涨价</a></li>
+            </ul>
+        </div>
+        <div class="Fr">
+            <dl>
+                <dt><a href="#">本周财经日历</a></dt>
+                <dt><a href="#">开户赢大奖</a></dt>
+                <dt><a href="#">传辰季刊</a></dt>
+            </dl>
+        </div>
+        <script type="text/javascript">
+            jQuery(".H_Layer03 .Fl ul li:last").attr("class","End");
+            jQuery(".H_Layer03 .Mib ul li:last").attr("class","End");
+        </script>
+    </div>
+    <!--第三层 End-->
+    <div class="space10"></div>
+    <!--第四层-->
+    <div class="H_Layer04">
+        <div class="Fl">
+            <h4 class="H_h4Title"><a href="#">更多</a><span class="Orange"><font>精英</font>观点</span></h4>
+            <ul class="H_listUl">
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li><span>09:36</span><a href="#">市场传闻欧洲购金 黄金白银震荡攀升</a></li>
+                <li><span>08:45</span><a href="#">航空公司选座服务被口头叫停 疑为变相涨价</a></li>
+            </ul>
+        </div>
+        <div class="Mib">
+            <h4 class="H_h4Title"><a href="#">更多</a><span class="Orange"><font>机构</font>观点</span></h4>
+            <ul class="H_listUl">
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li><span>09:36</span><a href="#">市场传闻欧洲购金 黄金白银震荡攀升 <img src="images/Icon_dujia.jpg"></a></li>
+                <li><span>08:45</span><a href="#">航空公司选座服务被口头叫停 疑为变相涨价</a></li>
+            </ul>
+        </div>
+        <div class="Fr">
+            <dl>
+                <dt><a href="#">电子期刊</a></dt>
+                <dt><a href="#">传辰内参</a></dt>
+                <dt><a href="#">非农助推<Br>黄金短期震荡</a></dt>
+            </dl>
+        </div>
+        <script type="text/javascript">
+            jQuery(".H_Layer04 .Fl ul li:last").attr("class","End");
+            jQuery(".H_Layer04 .Mib ul li:last").attr("class","End");
+            jQuery(".H_Layer04 .Fr dl dt:last").attr("class","End");
+        </script>
+    </div>
+    <!--第四层 End-->
+    <div class="space10"></div>
+    <!--第五层-->
+    <div class="H_Layer05">
+        <div class="Fl">
+            <h4 class="H_h4Title"><a href="#">更多</a><span class="Bule"><font>帮助</font>中心</span></h4>
+            <ul class="H_listUl">
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li><span>09:36</span><a href="#">市场传闻欧洲购金 黄金白银震荡攀升</a></li>
+                <li><span>08:45</span><a href="#">航空公司选座服务被口头叫停 疑为变相涨价</a></li>
+            </ul>
+        </div>
+        <div class="Mib">
+            <h4 class="H_h4Title"><a href="#">更多</a><span class="Bule"><font>研究</font>报告</span></h4>
+            <ul class="H_listUl">
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
+                    <dl>农业银行总行高级经济师何志成昨日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
+                </li>
+                <li><span>09:36</span><a href="#">市场传闻欧洲购金 黄金白银震荡攀升 <img src="images/Icon_dujia.jpg"></a></li>
+                <li><span>08:45</span><a href="#">航空公司选座服务被口头叫停 疑为变相涨价</a></li>
+            </ul>
+        </div>
+        <div class="Fr">
+            <h4 class="H_h4Title"><span class="Bule"><font>2014</font>年底大赛排行榜</span></h4>
+            <dl>
+                <dt><span>排名</span><span>选手</span><span>总资产</span></dt>
+                <dt class="Top">
+                    <span><em>1</em></span>
+                    <span>李蓼民</span>
+                    <span>￥11564</span>
+                </dt>
+                <dt>
+                    <span><em>2</em></span>
+                    <span>张大叔</span>
+                    <span>￥9689</span>
+                </dt>
+                <dt>
+                    <span><em>3</em></span>
+                    <span>王老八</span>
+                    <span>￥564</span>
+                </dt>
+                <dt>
+                    <span><em>4</em></span>
+                    <span>洪江湖</span>
+                    <span>￥79653</span>
+                </dt>
+                <dt>
+                    <span><em>5</em></span>
+                    <span>王老八</span>
+                    <span>￥564</span>
+                </dt>
+            </dl>
+        </div>
+        <script type="text/javascript">
+            jQuery(".H_Layer05 .Fl ul li:last").attr("class","End");
+            jQuery(".H_Layer05 .Mib ul li:last").attr("class","End");
+            jQuery(".H_Layer05 .Fr dl dt:first").attr("class","First");
+            jQuery(".H_Layer05 .Fr dl dt:last").attr("class","noneLine");
+        </script>
+    </div>
+    <!--第五层 End-->
+    <div class="space10"></div>
+    <!--第六层-->
+    <div class="H_Layer06">
+        <div class="Fl" id="AutoTable1">
+            <h4 class="H_h4Title"><span><font>价格</font>走势图</span></h4>
+            <h2>
+                <span>中色金</span>
+                <span>中色银</span>
+                <span>现货钯</span>
+                <span>中色金</span>
+                <span>现货铜</span>
+                <span>现货镍</span>
+                <span>美国原油</span>
+            </h2>
+            <div class="box" name="AutoContent">
+
+                <!--1-->
+                <div>
+                    <dl><span>分时图</span><img src="uploadfiles/H06.jpg"></dl>
+                    <dl class="End"><span>K线图</span><img src="uploadfiles/H07.jpg"></dl>
+                </div>
+                <!--1 End-->
+
+            </div>
+        </div>
+        <div class="Fr">
+            <h4 class="H_h4Title"><span><font>视频</font>教学</span></h4>
+            <ul class="H_listUl">
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <h5><a href="#">博鳌论坛15年会</a></h5>
+                    <dl>农业银行总行高级经济...<a href="#">[详细]</a></dl>
+                </li>
+                <li><a href="#">市场传闻欧洲购金 黄金白银震荡 <img src="images/Icon_dujia.jpg"></a></li>
+                <li><a href="#">航空公司选座服务被口头叫停</a></li>
+                <li><a href="#">市场传闻欧黄金白银震荡攀升</a></li>
+            </ul>
+        </div>
+        <script type="text/javascript">jQuery(".H_Layer06 .Fr ul li:last").attr("class","End");</script>
+    </div>
+    <!--第六层 End-->
+    <div class="space10"></div>
+    <!--第七层-->
+    <div class="H_Layer07">
+        <div class="Fr">
+            <h4><span><font>大赛</font>播报</span></h4>
+            <ul class="H_listUl">
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <h5><a href="#">博鳌论坛15年会</a></h5>
+                    <dl>农业银行总行高级经济...<a href="#">[详细]</a></dl>
+                </li>
+                <li><a href="#">市场传闻欧洲购金 黄金白银震荡 <img src="images/Icon_dujia.jpg"></a></li>
+                <li><a href="#">航空公司选座服务被口头叫停</a></li>
+                <li><a href="#">市场传闻欧黄金白银震荡攀升</a></li>
+            </ul>
+            <div class="space10"></div>
+            <h4><span><font>高手</font>论谈</span></h4>
+            <ul class="H_listUl">
+                <li class="Top">
+                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <h5><a href="#">博鳌论坛15年会</a></h5>
+                    <dl>农业银行总行高级经济...<a href="#">[详细]</a></dl>
+                </li>
+                <li><a href="#">市场传闻欧洲购金 黄金白银震荡 <img src="images/Icon_dujia.jpg"></a></li>
+                <li><a href="#">航空公司选座服务被口头叫停</a></li>
+                <li><a href="#">市场传闻欧黄金白银震荡攀升</a></li>
+            </ul>
+        </div>
+        <dl class="ad725x90"><a href="#"><img src="uploadfiles/H_ad.jpg"></a></dl>
+        <div class="Fl">
+            <h4 class="H_h4Title"><a href="#">更多</a><span class="Orange"><font>精英</font>展示</span></h4>
+            <div class="box">
+                <dl>
+                    <dt class="J01">
+                        <dl class="pic"><img src="uploadfiles/H08.jpg"></dl>
+                        <h5><a href="#">俊才天下</a></h5>
+                        <span>分析师：陈家健、唐贤仕</span>
+                        <span><b>播报风格：</b>交易与智商和学历无关，只与规则有关，懂得“游戏规则”最重要。</span>
+                    </dt>
+                    <dt class="J02">
+                        <dl class="pic"><img src="uploadfiles/H08.jpg"></dl>
+                        <h5><a href="#">银得未来</a></h5>
+                        <span>分析师：陈家健、唐贤仕</span>
+                        <span><b>播报风格：</b>交易与智商和学历无关，只与规则有关，懂得“游戏规则”最重要。</span>
+                    </dt>
+                    <dt class="J03">
+                        <dl class="pic"><img src="uploadfiles/H08.jpg"></dl>
+                        <h5><a href="#">俊才天下</a></h5>
+                        <span>分析师：陈家健、唐贤仕</span>
+                        <span><b>播报风格：</b>交易与智商和学历无关，只与规则有关，懂得“游戏规则”最重要。</span>
+                    </dt>
+                    <dt class="J04">
+                        <dl class="pic"><img src="uploadfiles/H08.jpg"></dl>
+                        <h5><a href="#">银得未来</a></h5>
+                        <span>分析师：陈家健、唐贤仕</span>
+                        <span><b>播报风格：</b>交易与智商和学历无关，只与规则有关，懂得“游戏规则”最重要。</span>
+                    </dt>
+                </dl>
+            </div>
+        </div>
+        <script type="text/javascript">
+            jQuery(".H_Layer07 .Fl dt").bind("mouseover", function () {
+                jQuery(this).addClass("bgHover");
+            })
+            jQuery(".H_Layer07 .Fl dt").bind("mouseleave", function () {
+                jQuery(this).removeClass("bgHover");
+            })
+        </script>
+    </div>
+    <!--第七层 End-->
+    <div class="space10"></div>
+    <!--第八层-->
+    <div class="H_Layer08">
+        <div class="share">
+            <dl>分享到：</dl>
+            <div class="bdsharebuttonbox">
+                <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间">QQ空间</a>
+                <a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网">人人网</a>
+                <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博">新浪微博</a>
+                <a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博">腾讯微博</a>
+                <a href="#" class="bds_tsohu" data-cmd="tsohu" title="分享到搜狐微博">搜狐微博</a>
+                <a href="#" class="bds_tieba" data-cmd="tieba" title="分享到百度贴吧">百度贴吧</a>
+                <a href="#" class="bds_bdxc" data-cmd="bdxc" title="分享到百度相册">百度相册</a>
+                <a href="#" class="bds_kaixin001" data-cmd="kaixin001" title="分享到开心网">开心网</a>
+                <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友">QQ好友</a>
+                <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网">豆瓣网</a>
+                <a href="#" class="bds_thx" data-cmd="thx" title="分享到和讯微博">和讯微博</a>
+                <a href="#" class="bds_more" data-cmd="more">更多分享</a>
+            </div>
+        </div>
+        <div class="links">
+            <h4>友情链接：</h4>
+            <ul>
+                <li><a href="#" target="_blank">传辰金融信息服务有限公司</a>|</li>
+                <li><a href="#" target="_blank"></a>|</li>
+                <li><a href="#" target="_blank">百度知道</a>|</li>
+                <li><a href="#" target="_blank">思建网络</a>|</li>
+                <li><a href="#" target="_blank">传辰金融信息服务</a></li>
+                <li><a href="#" target="_blank"></a>|</li>
+                <li><a href="#" target="_blank">百度知道</a>|</li>
+                <li><a href="#" target="_blank">思建网络</a>|</li>
+                <li><a href="#" target="_blank">传辰金融信息服务（上海）有限公司</a></li>
+                <li><a href="#" target="_blank"></a>|</li>
+                <li><a href="#" target="_blank">百度知道</a>|</li>
+                <li><a href="#" target="_blank">思建网络</a>|</li>
+                <li><a href="#" target="_blank">传辰金融信息服务有限公司</a>|</li>
+                <li><a href="#" target="_blank"></a>|</li>
+                <li><a href="#" target="_blank">百度知道</a>|</li>
+                <li><a href="#" target="_blank">思建网络</a>|</li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <!--第八层 End-->
+    <div class="space10"></div>
+
+
+    <div class="clear"></div>
+</section>
+<!--End-->
+
+<!--Bottom-->
+<footer class="Bottom">
+    <div class="nav">
+        <ul>
+            <li>
+                <b>关于我们</b>
+                <a href="#">关于我们</a>
+                <a href="#">荣誉资质</a>
+                <a href="#">今日传辰</a>
+            </li>
+            <li>
+                <b>投资产品</b>
+                <a href="#">产品介绍</a>
+                <a href="#">投资特点</a>
+                <a href="#">交易细则</a>
+                <a href="#">投资者权益保护</a>
+            </li>
+            <li>
+                <b>投资者指南</b>
+                <a href="#">开户指南</a>
+                <a href="#">交易须知</a>
+                <a href="#">资金存取</a>
+            </li>
+            <li>
+                <b>传辰研究</b>
+                <a href="#">传辰日评</a>
+                <a href="#">分析研究</a>
+                <a href="#">顾问精华</a>
+            </li>
+            <li>
+                <b>传辰学院</b>
+                <a href="#">投资入门</a>
+                <a href="#">视频学习</a>
+                <a href="#">投资技巧</a>
+            </li>
+            <li>
+                <b>招商加盟</b>
+                <a href="#">招商加盟</a>
+            </li>
+            <li>
+                <b>软件下载</b>
+                <a href="#">软件下载</a>
+            </li>
+            <li class="End">
+                <b>帮助中心</b>
+                <a href="#">会员登录</a>
+                <a href="#">会员注册</a>
+                <a href="#">反馈意见</a>
+            </li>
+        </ul>
+    </div>
+    <div class="contactBox">
+        <dl>
+            <dt class="D1">全国客服热线<b>400-666-7895</b></dt>
+            <dt class="D2">E-mail:<span>PENGXY@WAKOTRADE.COM</span></dt>
+            <dt>地址：上海市长宁区娄山关路523号金虹桥国际中心5楼<br />邮编：200051  </dt>
+        </dl>
+    </div>
+    <div class="copy">
+        <h5><a href="#">法律声明</a> | <a href="#">网站地图</a> | <a href="#">联系我们</a></h5>
+        <dl>传辰金融信息服务（上海）有限公司 版权所有<br />Copyright © All Right Reserved 沪ICP备12045641号    Designed By 我的虚拟世界店铺</dl>
+    </div>
+</footer>
+<script type="text/javascript">
+    //整站无图处理
+    jQuery.each(jQuery("img"), function (i, n) { jQuery(n).error(function () { n.src = 'uploadfiles/nopic.jpg'; }); n.src = n.src; });
+</script>
+
+<!--Bottom End-->
+
+<script type="text/javascript" src="Scripts/tab.js"></script>
+<script type="text/javascript" language="javascript">
+    jQuery("#nav1 a").attr("class","onnav");
+    AutoTables("AutoTable1");
+    window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","renren","tsina","tqq","tsohu","tieba","bdxc","kaixin001","sqq","douban","thx"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+</body>
+</html>
