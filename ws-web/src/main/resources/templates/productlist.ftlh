@@ -20,12 +20,12 @@
 <!--Top-->
 <div class="H260">
     <header class="Header">
-        <h3 class="logo"><a href="index.ftlh"></a></h3>
+        <h3 class="logo"><a href="index"></a></h3>
         <dl class="tell">客服热线：</dl>
         <dl class="service"><a href="#">在线客服</a></dl>
         <div class="Mainnav">
             <ul>
-                <li id="nav1"><a href="index.ftlh">首页</a></li>
+                <li id="nav1"><a href="index">首页</a></li>
                 <li id="nav2"><a href="关于我们.html">关于我们</a></li>
                 <li id="nav3"><a href="productlist">投资产品</a></li>
                 <li id="nav4"><a href="投资指南.html">投资指南</a></li>
@@ -38,24 +38,22 @@
         </div>
     </header>
 
-
 </div>
 <!--Top End-->
 
 <!--Star-->
 <section class="Content">
 
-
     <!--左边-->
     <aside class="Sidebar">
         <div class="Menu">
             <h4>投资产品<span>Products</span></h4>
-            <dl><img src="uploadfiles/Side_about.jpg" /></dl>
+            <dl><img src="../static/wealthman/uploadfiles/Side_about.jpg" /></dl>
             <ul>
-                <li id="menu1"><a href="投资产品.html">产品介绍</a></li>
-                <li id="menu2"><a href="投资产品.html">投资特点</a></li>
-                <li id="menu3"><a href="投资产品.html">交易细则</a></li>
-                <li id="menu4"><a href="投资产品.html">投资者权益保护</a></li>
+                <li id="menu1"><a href="productlist">产品介绍</a></li>
+                <li id="menu2"><a href="productlist">投资特点</a></li>
+                <li id="menu3"><a href="productlist">交易细则</a></li>
+                <li id="menu4"><a href="productlist">投资者权益保护</a></li>
             </ul>
             <script language="javascript" type="text/javascript">jQuery("#menu1 a").addClass("acur");</script>
         </div>

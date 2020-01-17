@@ -107,12 +107,12 @@
             <h4 class="H_h4Title"><a href="#">更多</a><span><font>每日</font>评论</span></h4>
             <ul class="H_listUl">
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H03.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H04.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
@@ -124,12 +124,12 @@
             <h4 class="H_h4Title"><a href="#">更多</a><span><font>市场</font>动态</span></h4>
             <ul class="H_listUl">
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H03.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H04.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
@@ -157,12 +157,12 @@
             <h4 class="H_h4Title"><a href="#">更多</a><span class="Orange"><font>精英</font>观点</span></h4>
             <ul class="H_listUl">
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H03.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H04.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
@@ -174,12 +174,12 @@
             <h4 class="H_h4Title"><a href="#">更多</a><span class="Orange"><font>机构</font>观点</span></h4>
             <ul class="H_listUl">
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H03.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H04.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
@@ -208,12 +208,12 @@
             <h4 class="H_h4Title"><a href="#">更多</a><span class="Bule"><font>帮助</font>中心</span></h4>
             <ul class="H_listUl">
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H03.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H04.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表示日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
@@ -225,12 +225,12 @@
             <h4 class="H_h4Title"><a href="#">更多</a><span class="Bule"><font>研究</font>报告</span></h4>
             <ul class="H_listUl">
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H03.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H04.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H04.jpg"></div>
                     <h5><a href="#">沪指拉升翻红上4900 总暴涨暴跌?</a></h5>
                     <dl>农业银行总行高级经济师何志成昨日表示沪指拉升翻红上4900 ...<a href="#">[详细]</a></dl>
                 </li>
@@ -295,8 +295,8 @@
 
                 <!--1-->
                 <div>
-                    <dl><span>分时图</span><img src="uploadfiles/H06.jpg"></dl>
-                    <dl class="End"><span>K线图</span><img src="uploadfiles/H07.jpg"></dl>
+                    <dl><span>分时图</span><img src="../static/wealthman/uploadfiles/H06.jpg"></dl>
+                    <dl class="End"><span>K线图</span><img src="../static/wealthman/uploadfiles/H07.jpg"></dl>
                 </div>
                 <!--1 End-->
 
@@ -306,11 +306,11 @@
             <h4 class="H_h4Title"><span><font>视频</font>教学</span></h4>
             <ul class="H_listUl">
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H03.jpg"></div>
                     <h5><a href="#">博鳌论坛15年会</a></h5>
                     <dl>农业银行总行高级经济...<a href="#">[详细]</a></dl>
                 </li>
-                <li><a href="#">市场传闻欧洲购金 黄金白银震荡 <img src="images/Icon_dujia.jpg"></a></li>
+                <li><a href="#">市场传闻欧洲购金 黄金白银震荡 <img src="../static/wealthman/images/Icon_dujia.jpg"></a></li>
                 <li><a href="#">航空公司选座服务被口头叫停</a></li>
                 <li><a href="#">市场传闻欧黄金白银震荡攀升</a></li>
             </ul>
@@ -325,11 +325,11 @@
             <h4><span><font>大赛</font>播报</span></h4>
             <ul class="H_listUl">
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H03.jpg"></div>
                     <h5><a href="#">博鳌论坛15年会</a></h5>
                     <dl>农业银行总行高级经济...<a href="#">[详细]</a></dl>
                 </li>
-                <li><a href="#">市场传闻欧洲购金 黄金白银震荡 <img src="images/Icon_dujia.jpg"></a></li>
+                <li><a href="#">市场传闻欧洲购金 黄金白银震荡 <img src="../static/wealthman/images/Icon_dujia.jpg"></a></li>
                 <li><a href="#">航空公司选座服务被口头叫停</a></li>
                 <li><a href="#">市场传闻欧黄金白银震荡攀升</a></li>
             </ul>
@@ -337,40 +337,40 @@
             <h4><span><font>高手</font>论谈</span></h4>
             <ul class="H_listUl">
                 <li class="Top">
-                    <div class="pic"><img src="uploadfiles/H03.jpg"></div>
+                    <div class="pic"><img src="../static/wealthman/uploadfiles/H03.jpg"></div>
                     <h5><a href="#">博鳌论坛15年会</a></h5>
                     <dl>农业银行总行高级经济...<a href="#">[详细]</a></dl>
                 </li>
-                <li><a href="#">市场传闻欧洲购金 黄金白银震荡 <img src="images/Icon_dujia.jpg"></a></li>
+                <li><a href="#">市场传闻欧洲购金 黄金白银震荡 <img src="../static/wealthman/images/Icon_dujia.jpg"></a></li>
                 <li><a href="#">航空公司选座服务被口头叫停</a></li>
                 <li><a href="#">市场传闻欧黄金白银震荡攀升</a></li>
             </ul>
         </div>
-        <dl class="ad725x90"><a href="#"><img src="uploadfiles/H_ad.jpg"></a></dl>
+        <dl class="ad725x90"><a href="#"><img src="../static/wealthman/uploadfiles/H_ad.jpg"></a></dl>
         <div class="Fl">
             <h4 class="H_h4Title"><a href="#">更多</a><span class="Orange"><font>精英</font>展示</span></h4>
             <div class="box">
                 <dl>
                     <dt class="J01">
-                        <dl class="pic"><img src="uploadfiles/H08.jpg"></dl>
+                        <dl class="pic"><img src="../static/wealthman/uploadfiles/H08.jpg"></dl>
                         <h5><a href="#">俊才天下</a></h5>
                         <span>分析师：陈家健、唐贤仕</span>
                         <span><b>播报风格：</b>交易与智商和学历无关，只与规则有关，懂得“游戏规则”最重要。</span>
                     </dt>
                     <dt class="J02">
-                        <dl class="pic"><img src="uploadfiles/H08.jpg"></dl>
+                        <dl class="pic"><img src="../static/wealthman/uploadfiles/H08.jpg"></dl>
                         <h5><a href="#">银得未来</a></h5>
                         <span>分析师：陈家健、唐贤仕</span>
                         <span><b>播报风格：</b>交易与智商和学历无关，只与规则有关，懂得“游戏规则”最重要。</span>
                     </dt>
                     <dt class="J03">
-                        <dl class="pic"><img src="uploadfiles/H08.jpg"></dl>
+                        <dl class="pic"><img src="../static/wealthman/uploadfiles/H08.jpg"></dl>
                         <h5><a href="#">俊才天下</a></h5>
                         <span>分析师：陈家健、唐贤仕</span>
                         <span><b>播报风格：</b>交易与智商和学历无关，只与规则有关，懂得“游戏规则”最重要。</span>
                     </dt>
                     <dt class="J04">
-                        <dl class="pic"><img src="uploadfiles/H08.jpg"></dl>
+                        <dl class="pic"><img src="../static/wealthman/uploadfiles/H08.jpg"></dl>
                         <h5><a href="#">银得未来</a></h5>
                         <span>分析师：陈家健、唐贤仕</span>
                         <span><b>播报风格：</b>交易与智商和学历无关，只与规则有关，懂得“游戏规则”最重要。</span>

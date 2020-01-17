@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Wealthsystem.iml" filepath="$PROJECT_DIR$/.idea/Wealthsystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/ws-api/ws-api.iml" filepath="$PROJECT_DIR$/ws-api/ws-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ws-cart/ws-cart.iml" filepath="$PROJECT_DIR$/ws-cart/ws-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/ws-userb/ws-userb.iml" filepath="$PROJECT_DIR$/ws-userb/ws-userb.iml" />
       <module fileurl="file://$PROJECT_DIR$/ws-web/ws-web.iml" filepath="$PROJECT_DIR$/ws-web/ws-web.iml" />
     </modules>

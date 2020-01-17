@@ -34,7 +34,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ws-api" options="" />
-      <module name="ws-cart" options="-parameters" />
+      <module name="ws-cart" options="" />
       <module name="ws-commons" options="-parameters" />
       <module name="ws-manager" options="-parameters" />
       <module name="ws-order" options="-parameters" />

@@ -1,0 +1,16 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.0.121:3307/wealth-management
+    username: root
+    password: l15658296616
+    driver-class-name: com.mysql.jdbc.Driver
+  freemarker:
+    suffix: .ftlh
+dubbo:
+  registry:
+    protocol: zookeeper
+    address: 192.168.0.121:2181,192.168.0.133:2181,192.168.0.134:2181
+  application:
+    name: ws-web
